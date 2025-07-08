@@ -1,0 +1,12 @@
+[
+  {
+    "id": "hero",
+    "title": "Bienvenue !",
+    "body": "Notre super produit…"
+  },
+  {
+    "id": "features",
+    "title": "Fonctionnalités",
+    "items": ["Rapide", "Sûr", "Simple"]
+  }
+]
